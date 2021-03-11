@@ -140,6 +140,10 @@ ul {
   left: 45px;
 }
 
+.contacts {
+  margin-top: 66px;
+}
+
 .contacts__inner {
   display: flex;
   align-items: center;
@@ -206,7 +210,8 @@ progress::-moz-progress-bar {
 .experience,
 .courses,
 .hobbies,
-.contacts {
+.contacts,
+.languages {
   padding-top: 20px;
 }
 
@@ -223,7 +228,8 @@ progress::-moz-progress-bar {
 .education__title,
 .experience__title,
 .courses__title,
-.hobbies__title {
+.hobbies__title,
+.languages__title {
   margin-left: 25px;
   margin-bottom: 0;
 }
