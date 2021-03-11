@@ -301,6 +301,7 @@ progress::-moz-progress-bar {
 
   .right {
     padding-left: 50px;
+    padding-top: 0;
   }
 }
 
@@ -312,5 +313,6 @@ progress::-moz-progress-bar {
 
   .right {
     padding: 0;
+    padding: 20px 0 0 0;
   }
 }
